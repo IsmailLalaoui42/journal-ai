@@ -1,0 +1,8 @@
+name = "ensa-journal-app"
+#main = "src/index.ts"   # <-- This should stay commented out!
+compatibility_date = "2024-04-28"
+
+[[d1_databases]]
+binding = "DB_INSTANCE"
+database_name = "ensa-journal"
+database_id = "xxxx-xxxx-xxxx-xxxx"
